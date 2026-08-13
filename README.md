@@ -4,6 +4,10 @@ Landing page conceitual desenvolvida para uma barbearia premium, com foco em pre
 
 ![Preview da Landing Page Ébano](assets/images/preview.png)
 
+<p align="center">
+  <a href="https://joaopedrocardosodossantos.github.io/barbearia-ebano/">🌐 Ver projeto online</a>
+</p>
+
 ## Sobre o projeto
 
 A **Ébano** foi criada como um projeto de demonstração para representar como uma pequena empresa pode utilizar um site profissional para fortalecer sua presença na internet.
